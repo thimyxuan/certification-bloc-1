@@ -2,8 +2,6 @@
 
 Ce dossier contient le projet Kayak pour la validation du bloc 1 de la certification.
 
----
-
 ## Certification 
 
 Concepteur - Développeur en Science des Données   
